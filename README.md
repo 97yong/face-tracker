@@ -61,6 +61,17 @@
   <tr><td><code>--max_faces</code></td><td>Max face thumbnails in gallery</td><td><code>6</code></td></tr>
 </table>
 
+<h2>🎬 Tracking Demo</h2>
+
+🔹 [Original Video (MOT16-08)]
+
+[MOT16-08-raw.webm](https://github.com/user-attachments/assets/31a71e9e-2cc8-4431-88e1-e92a1ae3d251)
+
+🔸 [Tracking Result (BoT-SORT)]
+
+[output_custom_draw.webm](https://github.com/user-attachments/assets/35d93389-4ed8-44af-bf50-ac34720c25c9)
+
+
 <h2>📌 References</h2>
 
 <ul>
@@ -73,13 +84,3 @@
     <a href="https://github.com/mikel-brostrom/boxmot" target="_blank">boxmot (GitHub)</a>
   </li>
 </ul>
-
-## 🎬 Tracking Demo
-
-🔹 [Original Video (MOT16-08)]
-
-[MOT16-08-raw.webm](https://github.com/user-attachments/assets/31a71e9e-2cc8-4431-88e1-e92a1ae3d251)
-
-🔸 [Tracking Result (BoT-SORT)]
-
-[output_custom_draw.webm](https://github.com/user-attachments/assets/35d93389-4ed8-44af-bf50-ac34720c25c9)
