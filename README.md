@@ -57,7 +57,7 @@
   <tr><td><code>--output_path</code></td><td>Path to save result video</td><td><code>output_custom_draw.mp4</code></td></tr>
   <tr><td><code>--tracker</code></td><td>Tracking model (botsort / bytetrack / ocsort)</td><td><code>botsort</code></td></tr>
   <tr><td><code>--reid_weights</code></td><td>Path to re-ID model (BoT-SORT only)</td><td><code>mobilenetv2_x1_4_market1501.pt</code></td></tr>
-  <tr><td><code>--conf_thresh</code></td><td>Minimum confidence for detection</td><td><code>0.99</code></td></tr>
+  <tr><td><code>--conf_thresh</code></td><td>Minimum confidence for detection</td><td><code>0.7</code></td></tr>
   <tr><td><code>--max_faces</code></td><td>Max face thumbnails in gallery</td><td><code>6</code></td></tr>
 </table>
 
