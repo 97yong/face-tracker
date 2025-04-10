@@ -74,26 +74,12 @@
   </li>
 </ul>
 
-## 🎬 Demo Videos
+## 🎬 Tracking Demo
 
-<table>
-  <tr>
-    <td align="center"><strong>🔹 Original Video (MOT16-08)</strong></td>
-    <td align="center"><strong>🔸 Tracking Result (BoT-SORT)</strong></td>
-  </tr>
-  <tr>
-    <td>
-      <video width="350" controls>
-        <source src="./data/MOT16-08-raw.webm" type="video/webm">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-    <td>
-      <video width="350" controls>
-        <source src="./output_custom_draw.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
-    </td>
-  </tr>
-</table>
+🔹 [Original Video (MOT16-08)]
 
+[MOT16-08-raw.webm](https://github.com/user-attachments/assets/31a71e9e-2cc8-4431-88e1-e92a1ae3d251)
+
+🔸 [Tracking Result (BoT-SORT)]
+
+https://github.com/user-attachments/assets/bbea191e-abc5-49c4-bcdd-415ecb1f7968
