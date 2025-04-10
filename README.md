@@ -82,4 +82,4 @@
 
 🔸 [Tracking Result (BoT-SORT)]
 
-https://github.com/user-attachments/assets/bbea191e-abc5-49c4-bcdd-415ecb1f7968
+[output_custom_draw.webm](https://github.com/user-attachments/assets/35d93389-4ed8-44af-bf50-ac34720c25c9)
