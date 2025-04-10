@@ -74,11 +74,26 @@
   </li>
 </ul>
 
-<h2>📷 Output Preview</h2>
+## 🎬 Demo Videos
 
-<p align="center">
-  <em>(You can add a GIF or sample image of tracking output here!)</em><br>
-  <img src="https://motchallenge.net/vis/MOT16-08/MOT16-08-vis-render.gif" width="700"/>
-</p>
+<table>
+  <tr>
+    <td align="center"><strong>🔹 Original Video (MOT16-08)</strong></td>
+    <td align="center"><strong>🔸 Tracking Result (BoT-SORT)</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <video width="350" controls>
+        <source src="./data/MOT16-08-raw.webm" type="video/webm">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td>
+      <video width="350" controls>
+        <source src="./output_custom_draw.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+  </tr>
+</table>
 
-<hr>
