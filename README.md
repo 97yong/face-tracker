@@ -53,7 +53,7 @@
 
 <table>
   <tr><th>Argument</th><th>Description</th><th>Default</th></tr>
-  <tr><td><code>--video_path</code></td><td>Path to input video</td><td><code>./assets/source_lab.mp4</code></td></tr>
+  <tr><td><code>--video_path</code></td><td>Path to input video</td><td><code>./data/MOT16-08-raw.webm</code></td></tr>
   <tr><td><code>--output_path</code></td><td>Path to save result video</td><td><code>output_custom_draw.mp4</code></td></tr>
   <tr><td><code>--tracker</code></td><td>Tracking model (botsort / bytetrack / ocsort)</td><td><code>botsort</code></td></tr>
   <tr><td><code>--reid_weights</code></td><td>Path to re-ID model (BoT-SORT only)</td><td><code>mobilenetv2_x1_4_market1501.pt</code></td></tr>
