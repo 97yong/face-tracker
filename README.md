@@ -72,6 +72,11 @@
 [output_custom_draw.webm](https://github.com/user-attachments/assets/35d93389-4ed8-44af-bf50-ac34720c25c9)
 
 
+<h2> Views </h2>
+
+![](http://profile-counter.glitch.me/97yong-face-tracker/count.svg)
+
+
 <h2>📌 References</h2>
 
 <ul>
